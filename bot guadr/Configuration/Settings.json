@@ -1,0 +1,29 @@
+{
+
+    "Server": {
+        "Id": "872712623551033435"
+    },
+
+    "Roles": {
+        "Jail_Role": "888147164340039712",
+        "Booster_Role": "883385022919372810"
+    },
+
+    "Channels": {
+        "Channel_Log": "888148004295573544",
+        "Role_Log": "888148185820848159",
+        "Other_Log": "888148739154386945",
+        "Right_Click": "888148867424587786"    
+    },
+
+    "Emojis": {
+        "Check": "✔️",
+        "Delete": "❌"
+    },
+
+    "Embed": {
+        "Color": "RANDOM",
+        "Footer": "ArdaBey21 ❤ Ruts",
+        "Timeout": 10000
+    }
+}
